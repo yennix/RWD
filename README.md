@@ -1,2 +1,2 @@
 # RWD
-Educational purposes
+For educational purposes
